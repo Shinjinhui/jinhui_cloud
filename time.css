@@ -1,9 +1,9 @@
 #clock{
     border: solid black 2px;
     width: 700px;
-    height: 100px;
+    height: 80px;
     color: gray;
     font-size: 70px;
     text-align: center;
-
+    border: 2px dashed #F69C55
 }
